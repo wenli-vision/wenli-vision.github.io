@@ -1,9 +1,11 @@
 ### Contact Information
+```
 B1-209, Main Building<br />
 University of Electronic Science and Technology of China (Qingshuihe Campus)<br />
 No. 2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R. China 611731
 
 Email: liwenbnu AT gmail DOT com
+```
 
 ### Biography
 I am a professor with the [School of Computer Science and Technology](http://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (SCSE, UESTC), leanding the [Data Intelligence Group (DIG)](https://dig.uestc.cn/).
