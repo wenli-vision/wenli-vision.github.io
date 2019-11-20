@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### Contact Information
+B1-209, Main Building
+University of Electronic Science and Technology of China (Qingshuihe Campus)
+No. 2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R. China 611731
 
-You can use the [editor on GitHub](https://github.com/wenli-vision/wenli-vision.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Email: liwenbnu AT gmail DOT com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Biography
+I am a professor with the [School of Computer Science and Technology](http://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (SCSE, UESTC), leanding the [Data Intelegience Group (DIG)](https://dig.uestc.cn/).
 
-### Markdown
+Previously, I was working with [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/members/get_member.cgi?lang=en&id=1) as a postdoctoral researcher at the [Computer Vision Laboratory, ETH Zurich](http://www.vision.ee.ethz.ch/en/), Switzerland. I obtained my PhD degree under the supervision of [Prof. Dong Xu](http://sydney.edu.au/engineering/people/dong.xu.php) from NTU on 2015. I also worked closely with [Prof. Ivor Wai-Hung Tsang](http://www.uts.edu.au/staff/ivor.tsang) during my PhD.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### News
 
-```markdown
-Syntax highlighted code block
+### Works
 
-# Header 1
-## Header 2
-### Header 3
+### Services
 
-- Bulleted
-- List
+### Teaching
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wenli-vision/wenli-vision.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Awards
