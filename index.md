@@ -1,8 +1,6 @@
 ### Contact Information
-B1-209, Main Building
-
-University of Electronic Science and Technology of China (Qingshuihe Campus)
-
+B1-209, Main Building</ br>
+University of Electronic Science and Technology of China (Qingshuihe Campus)</ br>
 No. 2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R. China 611731
 
 Email: liwenbnu AT gmail DOT com
