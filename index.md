@@ -25,22 +25,23 @@ Previously, I was working with [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch
 ### Works
 
 ### Services
-
+<p>Workshop Organizers: </p>
 <ul>
-<li><p>Co-organizer of ICCV 2019 Workshop on Transferring and Adapting Source Knowledge (TASK) in Computer Vision (CV). </p></li>
-<li><p>Co-organizer of CVPR 2019 Workshop on Visual Understanding by Learning from Web Data. </p></li>
-<li><p>Co-organizer of ECCV 2018 Workshop on Transferring and Adapting Source Knowledge (TASK) in Computer Vision (CV). </p></li>
-<li><p>Co-organizer of CVPR 2018 Workshop on Visual Understanding by Learning from Web Data. </p></li>
-<li><p>Co-organizer of ICCV 2017 Workshop on Transferring and Adapting Source Knowledge (TASK) in Computer Vision (CV). </p></li>
-<li><p>Co-organizer of CVPR 2017 Workshop on Visual Understanding by Learning from Web Data. </p></li>
-<li><p>Co-organizer of ECCV 2016 Workshop on Transferring and Adapting Source Knowledge (TASK) in Computer Vision (CV). </p></li>
-<li><p>Co-organizer of ICDM 2015 Workshop on Practical Transfer Learning. </p></li>
+<li>Co-organizer of CVPR 2020 Workshop on Visual Understanding by Learning from Web Data.</li>
+<li>Co-organizer of ICCV 2019 Workshop on Transferring and Adapting Source Knowledge (TASK) in Computer Vision (CV).</li>
+<li>Co-organizer of CVPR 2019 Workshop on Visual Understanding by Learning from Web Data.</li>
+<li>Co-organizer of ECCV 2018 Workshop on Transferring and Adapting Source Knowledge (TASK) in Computer Vision (CV).</li>
+<li>Co-organizer of CVPR 2018 Workshop on Visual Understanding by Learning from Web Data.</li>
+<li>Co-organizer of ICCV 2017 Workshop on Transferring and Adapting Source Knowledge (TASK) in Computer Vision (CV).</li>
+<li>Co-organizer of CVPR 2017 Workshop on Visual Understanding by Learning from Web Data.</li>
+<li>Co-organizer of ECCV 2016 Workshop on Transferring and Adapting Source Knowledge (TASK) in Computer Vision (CV).</li>
+<li>Co-organizer of ICDM 2015 Workshop on Practical Transfer Learning.</li>
 </ul>
 
 <p>Conference Reviewer: </p>
  <ul><li>ICCV2019, CVPR2019, NIPS2019, ICML2019, BMVC2019, ACM-MM2018, ECCV2018, ICIP2018, CVPR2018, ACM-MM2017, ICIP2017, ICCV2017, CVPR2017, ECCV2016, ICIP2016, NIPS2015, IJCAI2015, ICIP2015, ICME2014, ICME2013, IJCAI2013, ACM-MM2013.</li></ul>
-<p>Journal Reviewer:  </p>
 
+<p>Journal Reviewer:  </p>
 <ul>
 <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</li>
 <li>International Journal of Computer Vision (IJCV)</li>
